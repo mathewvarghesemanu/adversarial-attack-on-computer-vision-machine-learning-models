@@ -3,6 +3,8 @@ Adversarial machine learning is a rapidly growing field that has the potential t
 <br>
 This repository is dedicated to hosting adversarial attacks and their results for three popular techniques - Fast Gradient Sign Method (FGSM), Projected Gradient Descent (PGD), and DeepFool. The repository aims to provide a comprehensive collection of adversarial attacks and results on a variety of datasets, architectures, and hyperparameters. The code and documentation provided here can be used as a reference for researchers, developers, and enthusiasts interested in exploring adversarial machine learning.
 
+Presentation : https://docs.google.com/presentation/d/1gdbx2_oeUEF6CWUO7AsEGC1o0AarydFqQs5hHK7JrX0/edit?usp=sharing
+
 # Technologies used
 <li> Python </li>
 <li> Tensorflow </li>
